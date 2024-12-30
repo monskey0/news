@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /rahasia-orang-dalam.html
+       
+# Sitemap lokasi
+Sitemap: https://monskey0.github.io/news/rahasia-orang-dalam.html
